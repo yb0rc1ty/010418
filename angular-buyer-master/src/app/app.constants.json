@@ -1,0 +1,19 @@
+{
+  "appname": "Angular Buyer",
+  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+  "anonymous": false,
+  "environment": "prod",
+  "defaultstate": "home",
+  "html5mode": true,
+  "bootswatchtheme": null,
+  "scope": [
+      "BuyerReader", 
+      "MeAdmin", 
+      "MeXpAdmin", 
+      "MeAddressAdmin", 
+      "MeCreditCardAdmin", 
+      "Shopper", 
+      "PasswordReset",
+      "BuyerImpersonation"
+    ]
+}
